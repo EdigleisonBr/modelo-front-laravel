@@ -685,16 +685,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Quem ficou bravo no churrasco porque ia trabalhar no outro dia?
+                                    Teste
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item" value='1' onclick="teste(this)">1 - Edigleison</li>
-                                            <li class="list-group-item" value='2' onclick="teste(this)">2 - Lucas</li>
-                                            <li class="list-group-item" value='3' onclick="teste(this)">3 - Luan</li>
-                                            <li class="list-group-item" value='4' onclick="teste(this)">4 - Mateus</li>
+                                            <li class="list-group-item" value='1' onclick="teste(this)">1 - Teste1</li>
+                                            <li class="list-group-item" value='2' onclick="teste(this)">2 - Teste2</li>
+                                            <li class="list-group-item" value='3' onclick="teste(this)">3 - Teste3</li>
+                                            <li class="list-group-item" value='4' onclick="teste(this)">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -702,16 +702,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Qual o nome da pessoa que apareceu em um programa de TV dizendo "Maravilhoso"?
+                                    Teste
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Edigleison</li>
-                                            <li class="list-group-item">2 - Alisson</li>
-                                            <li class="list-group-item">3 - Lucas</li>
-                                            <li class="list-group-item">4 - Luan</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -719,16 +719,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Quem é conhecida como "Michelle Obama"?
+                                    Teste
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Tia Lucia</li>
-                                            <li class="list-group-item">2 - Daylla</li>
-                                            <li class="list-group-item">3 - Daiane</li>
-                                            <li class="list-group-item">4 - Fabiola</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -736,16 +736,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#quatro" aria-expanded="false" aria-controls="collapseThree">
-                                    Quem é o mais economista da familia?
+                                      Teste
                                     </button>
                                 </h2>
                                 <div id="quatro" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Edigleison</li>
-                                            <li class="list-group-item">2 - Alisson</li>
-                                            <li class="list-group-item">3 - Lucas</li>
-                                            <li class="list-group-item">4 - Eltin</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -753,16 +753,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#cinco" aria-expanded="false" aria-controls="collapseThree">
-                                        Quem come e vai embora rapidinho?
+                                        Teste
                                     </button>
                                 </h2>
                                 <div id="cinco" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Tia Lucia</li>
-                                            <li class="list-group-item">2 - Edigleison</li>
-                                            <li class="list-group-item">3 - Daiane</li>
-                                            <li class="list-group-item">4 - Fabiola</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -770,16 +770,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#seis" aria-expanded="false" aria-controls="collapseThree">
-                                        Quem é conhecido como "TriBall"?
+                                        Teste
                                     </button>
                                 </h2>
                                 <div id="seis" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Edigleison</li>
-                                            <li class="list-group-item">2 - Guto</li>
-                                            <li class="list-group-item">3 - Lucas</li>
-                                            <li class="list-group-item">4 - Eltin</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -787,16 +787,16 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#sete" aria-expanded="false" aria-controls="collapseThree">
-                                        Quem está devendo restante do dinheiro do "aparelhinho" para o Alisson?
+                                        Teste
                                     </button>
                                 </h2>
                                 <div id="sete" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
                                         <ul class="list-group">
-                                            <li class="list-group-item">1 - Edigleison</li>
-                                            <li class="list-group-item">2 - Guto</li>
-                                            <li class="list-group-item">3 - Luan</li>
-                                            <li class="list-group-item">4 - Eltin</li>
+                                            <li class="list-group-item">1 - Teste1</li>
+                                            <li class="list-group-item">2 - Teste2</li>
+                                            <li class="list-group-item">3 - Teste3</li>
+                                            <li class="list-group-item">4 - Teste4</li>
                                         </ul>
                                     </div>
                                 </div>
